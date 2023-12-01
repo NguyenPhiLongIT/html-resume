@@ -1,0 +1,25 @@
+.poster{
+    font-size: 3rem;
+}
+
+.letter_in_poster{
+    color:#F3EEEA;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+.content{
+    font-size: 20px;
+}
+
+.contact{
+    background-color:#776B5D;
+    color:#F8FFD2;
+    text-align: center;
+}
+
+body{
+    background-color:#F3EEEA;
+}
